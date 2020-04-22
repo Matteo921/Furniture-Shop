@@ -1,14 +1,7 @@
 # WDP Projekt Zespołowy
-
+# USE
+HTML CSS/SASS NPM AdobeXd  Jira Kanban 
 ## Opis projektu
-
-DO UZUPEŁNIENIA
-
-## Demo
-
-DO UZUPEŁNIENIA
-
-## Inicjacja projektu
 
 Po sklonowaniu projektu, zainstaluj wymagane paczki komendą `npm install`.
 
@@ -32,6 +25,6 @@ Projekt korzysta z Git Hooks - możliwości uruchamiania skryptów w reakcji na 
 Za każdym razem gdy wykonasz komendę `git commit` zostanie uruchomiony skrypt `code-quality`
 dla plików, które zostały wybrane do za-commit'owania.
 
-## Konwencje i dobre praktyki
+#Konwencje i dobre praktyki
 
-DO UZUPEŁNIENIA
+
