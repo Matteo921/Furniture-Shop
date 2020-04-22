@@ -1,5 +1,5 @@
 # WDP Projekt Zespołowy
-# USE
+# Użyto
 HTML CSS/SASS NPM AdobeXd  Jira Kanban 
 ## Opis projektu
 
