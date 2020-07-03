@@ -4,7 +4,11 @@
   .row {
     justify-content: center;
   }
-
+  .img_author {
+    border-radius: 100%;
+    width: 200px;
+    height: auto;
+  }
   .panel-bar {
     margin-bottom: 0;
   }
@@ -26,10 +30,9 @@
     h5 {
       text-align: left;
     }
-    &.img-author{
+    &.img-author {
       display: flex;
       justify-content: flex-end;
     }
-    
   }
 }

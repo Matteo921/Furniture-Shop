@@ -20,6 +20,10 @@
   background-color: #6a6a6a;
   margin-right: 50px;
   position: relative;
+  .leftmarkup {
+    width: 500px;
+    height: 400px;
+  }
   .text_box {
     width: 440px;
     height: 340px;
@@ -46,6 +50,10 @@
 .box2 {
   width: 550px;
   height: 400px;
+  .imgmarkup {
+    width: 550px;
+    height: 180px;
+  }
   .up {
     width: 550px;
     height: 180px;
@@ -71,6 +79,7 @@
     height: 180px;
     background-color: #fbf3f7;
     position: relative;
+
     .rightdown_text {
       position: absolute;
       right: 20px;

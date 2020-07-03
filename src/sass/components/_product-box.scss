@@ -13,7 +13,6 @@
 
   .photo {
     position: relative;
-    padding: 80% 10px 0 10px;
 
     background: {
       color: #f4f5f7;
@@ -146,4 +145,8 @@
     animation-timing-function: linear;
     width: 100%;
   }
+}
+.productsimage {
+  width: 100%;
+  height: auto;
 }

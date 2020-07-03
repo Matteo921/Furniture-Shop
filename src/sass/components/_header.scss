@@ -142,6 +142,7 @@ header {
       .category {
         border-right: 1px solid $form-border-color;
         display: flex;
+
         align-items: center;
         position: relative;
         i:first-child {
@@ -160,6 +161,7 @@ header {
           text-align: center;
           position: absolute;
           top: 10px;
+
           list-style: none;
           padding: 0;
           z-index: 1;

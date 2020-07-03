@@ -1,7 +1,8 @@
 .section--home {
   padding-bottom: 5rem;
 
-  .product-box {
+  .product-boxhome {
+    height: 400px;
     h3 {
       color: $not-active-button;
       text-transform: uppercase;
@@ -23,7 +24,13 @@
       justify-content: center;
       align-items: center;
       position: relative;
+      max-height: inherit;
 
+      .leftsidephoto {
+        width: 80%;
+        height: auto;
+        text-align: center;
+      }
       .buttons-home-stats {
         .btn.icon {
           @extend .btn-main;
@@ -48,7 +55,7 @@
         padding: 5px 10px;
         width: 50%;
         position: absolute;
-        top: 40%;
+        top: 70%;
         visibility: hidden;
 
         a {
@@ -120,7 +127,7 @@
           width: 100%;
           padding: 80px 0;
           background: $form-border-color;
-          opacity: 0.1;
+          opacity: 0.4;
           text-align: center;
 
           h1,
@@ -171,4 +178,9 @@
       }
     }
   }
+}
+
+.imgpremium {
+  position: absolute;
+  top: 10%;
 }
