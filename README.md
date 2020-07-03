@@ -1,34 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Furnitures shop</title>
-    <link rel="stylesheet" href="./sass/style.scss" />
-  </head>
-
-  <body>
-    <include src="10_header.html"></include>
-
-    <include src="20_home.html"></include>
-
-    <include src="30_section-features.html"></include>
-    <include src="40_section-markup.html"></include>
-    <include src="50_section-products.html"></include>
-
-    <include src="70_section-blog-posts.html"></include>
-    <include src="80_section-feedback.html"></include>
-    <include src="90_footer.html"></include>
-
-    <script src="./scripts/bootstrap.min.js"></script>
-    <script src="./scripts/app.js"></script>
-
-  </body>
-</html>
 # WDP Projekt Zespołowy
+
 ## Użyto
-HTML CSS/SASS NPM AdobeXd  Jira Kanban 
+
+HTML CSS/SASS NPM AdobeXd Jira Kanban
+
 ## Opis projektu
 
 Po sklonowaniu projektu, zainstaluj wymagane paczki komendą `npm install`.
